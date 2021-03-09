@@ -7,3 +7,5 @@
 
 (global-set-key (kbd "C-j") (kbd "C-a C-k"))
 (global-set-key (kbd "C-i") (kbd "C-x u"))
+
+(load-theme 'manoj-dark t)
